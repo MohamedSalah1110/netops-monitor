@@ -35,11 +35,13 @@
 ## 📸 What It Does
 
 NetOps Monitor simulates a live NOC environment used in mobile telecom networks.
-The dashboard displays real-time status of network elements (BTS, BSC, MSC, GGSN, HLR, SGSN),
-active alarms with severity levels, load indicators, and overall network uptime.
 
-All data is served from a MariaDB database through a Flask REST API,
-with the database password retrieved exclusively from **HashiCorp Vault** — no `.env` files, no plain environment variables.
+- 📡 Real-time network elements monitoring (BTS, BSC, MSC, GGSN, HLR, SGSN)  
+- 🚨 Alarm tracking with severity levels  
+- 📊 Load indicators & performance metrics  
+- ⏱️ Network uptime visualization  
+
+🔐 All secrets are securely managed using **HashiCorp Vault** — no `.env`, no plain variables.
 
 ---
 
@@ -172,4 +174,3 @@ The simulated network covers Egyptian mobile infrastructure nodes:
 
 ---
 
-*Course project — Docker Security Track. Telecom domain chosen to reflect real NOC infrastructure.*
