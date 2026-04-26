@@ -27,10 +27,10 @@
   </a>
 </p>
 
-> 💡 A containerized **Network Operations Center (NOC) Dashboard** built with secure Docker practices.  
-> Designed to simulate **real-world telecom infrastructure monitoring** and demonstrate how **HashiCorp Vault** is applied in production-style secret management.
 
----
+> 💡 A containerized **Network Operations Center (NOC) Dashboard** built with secure Docker practices.  
+> Designed to simulate **real-world telecom infrastructure monitoring**.
+
 
 ## 📸 What It Does
 
@@ -245,6 +245,13 @@ The main production concept is already demonstrated here:
 ## 🛠️ Tech Stack
 
 `Docker` · `Docker Compose` · `HashiCorp Vault` · `Python / Flask` · `nginx` · `MariaDB` · `Alpine Linux` · `Bash`
+
+---
+## 👥 Team Members
+
+- Tasneem Amin  
+- Eman Tarek 
+- Mohamed Salah   
 
 ---
 
