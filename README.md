@@ -255,10 +255,4 @@ The main production concept is already demonstrated here:
 
 ---
 
-## 👥 Team Members
 
-- Tasneem Amin  
-- Eman Tarek  
-- Mohamed Salah  
-
----
